@@ -3,7 +3,7 @@
 	"url" : "https://github.com/k0ffinz/Kini/",
 	"license": "MIT",
 	"tags": ["cross", "ini", "parser"],
-	"description": "Parses ini data into object.",
+	"description": "Custom ini to object parser with array sections support.",
 	"version": "1.0.0",
 	"classPath": "kini/",
 	"releasenote": "Initial release.",
