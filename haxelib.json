@@ -1,0 +1,13 @@
+{
+	"name": "Kini",
+	"url" : "https://github.com/k0ffinz/Kini/",
+	"license": "MIT",
+	"tags": ["cross", "ini", "parser"],
+	"description": "Parses ini data into object.",
+	"version": "1.0.0",
+	"classPath": "kini/",
+	"releasenote": "Initial release.",
+	"contributors": ["Koffinz"],
+	"dependencies": {},
+	"main": "kini.Ini"
+  }
